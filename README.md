@@ -9,9 +9,7 @@ This project uses Google's Gemini multimodal models to classify parasite images 
 ## Features
 
 - Image-based parasite classification with Gemini
-- Prompt-based one-word class prediction
 - Batch processing of image folders
-- CSV export of model predictions
 - Simple experimental workflow for research and evaluation
 
 ## Target Classes
